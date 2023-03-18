@@ -17,7 +17,14 @@ const CoursesList = () => {
   const [perPage] = useState(10);
   const [currentPage, setCurrentPage] = useState(getPage);
 
-
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: 'smooth',
+    });
+  }, [currentPage]);
+  
   useEffect(() => {
     const getListOfCourses = async () => {
       try {

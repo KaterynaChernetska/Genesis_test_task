@@ -12,9 +12,10 @@ const Pagination = ({ perPage, totalCourses, paginate }) => {
       <ul className='pagination'>
         {pageNumbers.map(number => (
           <li key={number} className='page-item'>
-            <a onClick={() => paginate(number)} href='!#' className='page-link'>
+            {/* <a onClick={() => paginate(number)} href='!#' className='page-link'>
               {number}
-            </a>
+            </a> */}
+            {<button onClick={() => paginate(number)} className='page-link'>{number}</button>}
           </li>
         ))}
       </ul>

@@ -9,6 +9,7 @@ const CoursesPage = lazy(() => import('pages/CoursesPage/CoursesPage'));
 const LessonPage = lazy(() => import('../pages/LessonPage/LessonPage.jsx'));
 
 export const App = () => {
+  
   return (
     <>
       <Suspense fallback={<Loader />}>
