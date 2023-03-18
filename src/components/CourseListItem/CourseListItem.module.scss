@@ -1,0 +1,48 @@
+.listItem{
+    margin-bottom: 20px;
+    background:#fff;
+    border: solid black;
+    border-color: black;
+    float:left; 
+    padding:20px;
+    border-width: 3px 3px 5px 5px;
+    border-radius:4% 95% 6% 95%/95% 4% 92% 5%;
+    transform: rotate(-2deg);
+
+    @media screen and (min-width:768px) {
+        // max-width: 400px;
+        padding:40px;
+    }
+}
+.videoContainer{
+    width: 310px;
+    height: 180px;
+
+    @media screen and (min-width:768px) {
+        width: 610px;
+        height: 350px;
+    }
+}
+
+.courseTitle{
+font-size: 20px;
+}
+.info{
+display: flex;
+flex-direction: row;
+    justify-content: space-between;
+    font-weight: 500;
+    color: #9B9FAA;
+}
+
+
+.skillsTitle{
+    font-size: 20px;
+}
+
+
+.tagsList{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
