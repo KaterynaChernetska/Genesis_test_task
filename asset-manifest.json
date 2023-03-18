@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/genesis_test_task/static/css/main.aa6eb63d.css",
-    "main.js": "/genesis_test_task/static/js/main.bb57e5c7.js",
+    "main.js": "/genesis_test_task/static/js/main.f91fe4be.js",
     "static/css/680.5810e4ee.chunk.css": "/genesis_test_task/static/css/680.5810e4ee.chunk.css",
     "static/js/680.ba14c215.chunk.js": "/genesis_test_task/static/js/680.ba14c215.chunk.js",
     "static/css/449.c093032d.chunk.css": "/genesis_test_task/static/css/449.c093032d.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/686.6d63f46c.chunk.js": "/genesis_test_task/static/js/686.6d63f46c.chunk.js",
     "index.html": "/genesis_test_task/index.html",
     "main.aa6eb63d.css.map": "/genesis_test_task/static/css/main.aa6eb63d.css.map",
-    "main.bb57e5c7.js.map": "/genesis_test_task/static/js/main.bb57e5c7.js.map",
+    "main.f91fe4be.js.map": "/genesis_test_task/static/js/main.f91fe4be.js.map",
     "680.5810e4ee.chunk.css.map": "/genesis_test_task/static/css/680.5810e4ee.chunk.css.map",
     "680.ba14c215.chunk.js.map": "/genesis_test_task/static/js/680.ba14c215.chunk.js.map",
     "449.c093032d.chunk.css.map": "/genesis_test_task/static/css/449.c093032d.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.aa6eb63d.css",
-    "static/js/main.bb57e5c7.js"
+    "static/js/main.f91fe4be.js"
   ]
 }
