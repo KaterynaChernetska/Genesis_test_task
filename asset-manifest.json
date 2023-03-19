@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/genesis_test_task/static/css/main.aa6eb63d.css",
-    "main.js": "/genesis_test_task/static/js/main.8e6138f7.js",
+    "main.js": "/genesis_test_task/static/js/main.ec2fdaf9.js",
     "static/css/680.5810e4ee.chunk.css": "/genesis_test_task/static/css/680.5810e4ee.chunk.css",
-    "static/js/680.a2872910.chunk.js": "/genesis_test_task/static/js/680.a2872910.chunk.js",
+    "static/js/680.b9c8141a.chunk.js": "/genesis_test_task/static/js/680.b9c8141a.chunk.js",
     "static/css/449.c093032d.chunk.css": "/genesis_test_task/static/css/449.c093032d.chunk.css",
-    "static/js/449.84cd9258.chunk.js": "/genesis_test_task/static/js/449.84cd9258.chunk.js",
+    "static/js/449.14f690fc.chunk.js": "/genesis_test_task/static/js/449.14f690fc.chunk.js",
     "static/css/394.750f72cb.chunk.css": "/genesis_test_task/static/css/394.750f72cb.chunk.css",
     "static/js/394.f87d8810.chunk.js": "/genesis_test_task/static/js/394.f87d8810.chunk.js",
     "static/js/728.53a49fb0.chunk.js": "/genesis_test_task/static/js/728.53a49fb0.chunk.js",
     "static/js/686.6d63f46c.chunk.js": "/genesis_test_task/static/js/686.6d63f46c.chunk.js",
     "index.html": "/genesis_test_task/index.html",
     "main.aa6eb63d.css.map": "/genesis_test_task/static/css/main.aa6eb63d.css.map",
-    "main.8e6138f7.js.map": "/genesis_test_task/static/js/main.8e6138f7.js.map",
+    "main.ec2fdaf9.js.map": "/genesis_test_task/static/js/main.ec2fdaf9.js.map",
     "680.5810e4ee.chunk.css.map": "/genesis_test_task/static/css/680.5810e4ee.chunk.css.map",
-    "680.a2872910.chunk.js.map": "/genesis_test_task/static/js/680.a2872910.chunk.js.map",
+    "680.b9c8141a.chunk.js.map": "/genesis_test_task/static/js/680.b9c8141a.chunk.js.map",
     "449.c093032d.chunk.css.map": "/genesis_test_task/static/css/449.c093032d.chunk.css.map",
-    "449.84cd9258.chunk.js.map": "/genesis_test_task/static/js/449.84cd9258.chunk.js.map",
+    "449.14f690fc.chunk.js.map": "/genesis_test_task/static/js/449.14f690fc.chunk.js.map",
     "394.750f72cb.chunk.css.map": "/genesis_test_task/static/css/394.750f72cb.chunk.css.map",
     "394.f87d8810.chunk.js.map": "/genesis_test_task/static/js/394.f87d8810.chunk.js.map",
     "728.53a49fb0.chunk.js.map": "/genesis_test_task/static/js/728.53a49fb0.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.aa6eb63d.css",
-    "static/js/main.8e6138f7.js"
+    "static/js/main.ec2fdaf9.js"
   ]
 }
